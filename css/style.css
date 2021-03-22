@@ -190,7 +190,9 @@ body {
   background: #f8f8f8;
 }
 
-#product h2,
+#product h2 {
+  margin-bottom: 20px;
+}
 
 #ir {
   /* 스크롤시 가로 잘림 방지 */
